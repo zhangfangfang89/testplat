@@ -1,0 +1,4 @@
+[31m[2021-01-28 08:49:26,992] [caseviews.py:113] [caseviews:post] [ERROR]- StepManage() got an unexpected keyword argument 'singleapi'[0m
+[31m[2021-01-28 08:49:51,062] [caseviews.py:114] [caseviews:post] [ERROR]- StepManage() got an unexpected keyword argument 'singleapi'[0m
+[31m[2021-01-28 08:50:36,508] [caseviews.py:114] [caseviews:post] [ERROR]- (1048, "Column 'case_id' cannot be null")[0m
+[31m[2021-01-28 08:54:54,912] [caseviews.py:114] [caseviews:post] [ERROR]- Field 'id' expected a number but got <CaseManage: CaseManage object (1)>.[0m

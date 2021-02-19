@@ -1,0 +1,16 @@
+/Users/mac/pythonProject/testplat/cyWeb/log/2021-02-09/13-log.log
+/Users/mac/pythonProject/testplat/cyWeb/log/2021-02-09
+/Users/mac/pythonProject/testplat/cyWeb/log/2021-02-09/13-log.log
+/Users/mac/pythonProject/testplat/cyWeb/log/2021-02-09
+/Users/mac/pythonProject/testplat/cyWeb/log/2021-02-09/13-log.log
+/Users/mac/pythonProject/testplat/cyWeb/log/2021-02-10/4-log.log
+/Users/mac/pythonProject/testplat/cyWeb/log/2021-02-10
+/Users/mac/pythonProject/testplat/cyWeb/log/2021-02-10/4-log.log
+http://qaqdi-gw.qdingnet.com/qdi-sales-online-api/staffRole/getRoleList/
+{'code': 400102, 'message': '未登录', 'success': False, 'traceId': 'e52c25acad01438bb3c6582bfcaded12'}
+/Users/mac/pythonProject/testplat/cyWeb/log/2021-02-10
+/Users/mac/pythonProject/testplat/cyWeb/log/2021-02-10/4-log.log
+http://qaqdi-gw.qdingnet.com/qdi-sales-online-api/staffRole/getRoleList/
+{'code': 400102, 'message': '未登录', 'success': False, 'traceId': '41636fadd3b042a481ec54e7faba5c65'}
+/Users/mac/pythonProject/testplat/cyWeb/log/2021-02-10
+/Users/mac/pythonProject/testplat/cyWeb/log/2021-02-10/4-log.log

@@ -1,0 +1,4 @@
+[32m[2021-02-10 04:04:04,570] [allapi.py:40] [allapi:getRoleList] [INFO]- 获取角色列表数据哦哦哦哦接口成功{"code": 400102, "message": "\u672a\u767b\u5f55", "success": false, "traceId": "5b2c3dd01e214dbc8462a149f321ec3e"}[0m
+[32m[2021-02-10 04:07:00,389] [allapi.py:42] [allapi:getRoleList] [INFO]- 获取角色列表数据哦哦哦哦接口成功{"code": 400102, "message": "\u672a\u767b\u5f55", "success": false, "traceId": "e52c25acad01438bb3c6582bfcaded12"}[0m
+[32m[2021-02-10 04:11:14,804] [allapi.py:41] [allapi:getRoleList] [INFO]- 获取角色列表数据哦哦哦哦接口成功{"code": 400102, "message": "\u672a\u767b\u5f55", "success": false, "traceId": "41636fadd3b042a481ec54e7faba5c65"}[0m
+[32m[2021-02-10 04:21:01,251] [allapi.py:39] [allapi:getRoleList] [INFO]- 获取角色列表数据哦哦哦哦接口成功{"code": 400102, "message": "\u672a\u767b\u5f55", "success": false, "traceId": "6daedc12b13f4830a55506a39dccb3b7"}[0m

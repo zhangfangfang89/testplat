@@ -1,0 +1,2 @@
+[31m[2021-02-02 06:48:24,221] [caseviews.py:201] [caseviews:post] [ERROR]- AssertManage() got an unexpected keyword argument 'num'[0m
+[31m[2021-02-02 06:49:23,990] [caseviews.py:201] [caseviews:post] [ERROR]- AssertManage() got an unexpected keyword argument 'num'[0m
